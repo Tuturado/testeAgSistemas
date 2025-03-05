@@ -1,0 +1,31 @@
+### lista produtos
+GET http://localhost:3000/produtos
+
+### GET produtos
+GET http://localhost:3000/produtos/1
+
+### CREATE produtos
+POST http://localhost:3000/produtos/
+Content-Type: application/json
+
+{
+	"codigo": 2,
+	"nome": "pao",
+	"codigo_barras": "123456",
+	"quantidade": 2.0,
+	"preco": 1.70
+}
+
+### UDPATE produtos
+PATCH http://localhost:3000/produtos/1
+Content-Type: application/json
+
+{
+	"nome": "Massa",
+	"codigo_barras": "12345",
+	"quantidade": 1.0,
+	"preco": 1.90
+}
+
+### DELETE produtos
+DELETE http://localhost:3000/produtos/2
