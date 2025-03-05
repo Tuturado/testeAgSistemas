@@ -25,7 +25,7 @@ Também foi disponibilizado um arquivo "Products collection.postman_collection.j
 ---
 
 <a href="https://www.linkedin.com/in/alef-paula-aa98041ba/">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQHQhVF1DcK4BQ/profile-displayphoto-shrink_800_800/0/1626360406690?e=1638403200&v=beta&t=iiWyAVEA37996CkECQNCHu5EkMAqNUS0yDqSoe9mZDA" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="[https://media-exp1.licdn.com/dms/image/C5603AQHQhVF1DcK4BQ/profile-displayphoto-shrink_800_800/0/1626360406690?e=1638403200&v=beta&t=iiWyAVEA37996CkECQNCHu5EkMAqNUS0yDqSoe9mZDA](https://media.licdn.com/dms/image/v2/D4D03AQHkWSwx44ecuA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1703838926067?e=1746662400&v=beta&t=Qujgx7Rjf8EWkzlT33QOH7ECBq-awcWe7tmf40wxcr8)" width="100px;" alt=""/>
  <br />
  <sub><b>Alef de Paula</b></sub></a> <a href="https://www.linkedin.com/in/alef-paula-aa98041ba/ title="LinkedIn">:desktop_computer:</a>
  
