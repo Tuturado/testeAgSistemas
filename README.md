@@ -1,4 +1,4 @@
-# Teste AgSistemas :key:
+# Teste AgSistemas :rocket:
 CRUD simples criado com NestJS e Mariadb, ambos rodando no container docker.
 ### Status do Projeto :white_check_mark:
 O projeto foi concluido com sucesso. 
@@ -17,15 +17,19 @@ Foram utilizadas as seguintes tecnologias na construção do código:
 
 -[Mariadb](https://mariadb.org/)
 
-### Exemplos de requisição e respostas da API
+### Exemplos de requisição e respostas da API 
 Todos os exemplos estão disponíveis na documentação da API criada com o Swagger, com o projeto em execução basta acessar a rota "/api".
 Também foi disponibilizado um arquivo "Products collection.postman_collection.json" com todas as rotas prontas para serem utilizadas dentro do software Postman.
+
+### Decisões técnicas
+Sobre a questão do banco, a coluna quantidade foi criada como um decimal, isso se deu por não saber qual seria o tipo exato de produto com o qual se está trabalhando, dessa forma não haverá problemas se for um produto que pode ser fracionado ou não.
+Dentro desse repostório também tem um ".sql" que cria a tabela no banco de dados, os demais detalhes podem ser vistos na entity de Produto criada no projeto.
 
 ### Autor
 ---
 
 <a href="https://www.linkedin.com/in/alef-paula-aa98041ba/">
- <img style="border-radius: 50%;" src="[https://media-exp1.licdn.com/dms/image/C5603AQHQhVF1DcK4BQ/profile-displayphoto-shrink_800_800/0/1626360406690?e=1638403200&v=beta&t=iiWyAVEA37996CkECQNCHu5EkMAqNUS0yDqSoe9mZDA](https://media.licdn.com/dms/image/v2/D4D03AQHkWSwx44ecuA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1703838926067?e=1746662400&v=beta&t=Qujgx7Rjf8EWkzlT33QOH7ECBq-awcWe7tmf40wxcr8)" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQHQhVF1DcK4BQ/profile-displayphoto-shrink_800_800/0/1626360406690?e=1638403200&v=beta&t=iiWyAVEA37996CkECQNCHu5EkMAqNUS0yDqSoe9mZDA" width="100px;" alt=""/>
  <br />
  <sub><b>Alef de Paula</b></sub></a> <a href="https://www.linkedin.com/in/alef-paula-aa98041ba/ title="LinkedIn">:desktop_computer:</a>
  
